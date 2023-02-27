@@ -1,0 +1,20 @@
+
+1. Create an isolated environment with the following command:
+python -m venv my_env
+
+Run the following command to activate your virtual environment:
+my_env\Scripts\activate.bat 
+
+2. Install Django;
+
+python -m pip install Django
+
+3. Install restframework:
+pip install djangorestframework
+
+4. Install yasg and coreapi
+pip install drf_yasg
+pip install coreapi
+
+5. Install dot env
+python -m pip install python-dotenv
